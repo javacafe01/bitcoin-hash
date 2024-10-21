@@ -1,4 +1,4 @@
-# hash
+# bitcoin-hash
 A reimplementation of the Bitcoin hash, both in parallel and serial.
 
 ### Simplified SHA256
